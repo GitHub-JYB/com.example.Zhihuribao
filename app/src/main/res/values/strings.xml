@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">知乎日报</string>
+    <string name="open">navigation_open</string>
+    <string name="close">navition_close</string>
+</resources>
